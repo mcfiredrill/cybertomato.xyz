@@ -1,1 +1,11 @@
 /* Ember supports plain CSS out of the box. More info: https://cli.emberjs.com/release/advanced-use/stylesheets/ */
+body {
+  background: url("/assets/images/tacobell_bg.gif");
+}
+
+.content {
+  background: #fffecd;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
